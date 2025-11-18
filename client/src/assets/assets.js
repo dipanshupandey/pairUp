@@ -136,5 +136,82 @@ export const messagesDummyData = [
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "seen": true,
         "createdAt": "2025-04-28T10:24:08.523Z",
-    }
-]
+    },
+
+    // -------------------------------------------------------
+    // ⭐ Added New Messages Below ⭐
+    // -------------------------------------------------------
+
+    {
+        "_id": "680f574df10f3cd28382f0d0",
+        "senderId": "680f50e4f10f3cd28382ecf9",
+        "receiverId": "680f5116f10f3cd28382ed02",
+        "text": "Hey! Are you coming today?",
+        "seen": true,
+        "createdAt": "2025-04-28T10:24:15.900Z",
+    },
+    {
+        "_id": "680f5752f10f3cd28382f0d5",
+        "senderId": "680f5116f10f3cd28382ed02",
+        "receiverId": "680f50e4f10f3cd28382ecf9",
+        "text": "Yes, just finishing some work.",
+        "seen": true,
+        "createdAt": "2025-04-28T10:24:22.300Z",
+    },
+    {
+        "_id": "680f5758f10f3cd28382f0da",
+        "senderId": "680f50e4f10f3cd28382ecf9",
+        "receiverId": "680f5116f10f3cd28382ed02",
+        "image": img1,
+        "seen": true,
+        "createdAt": "2025-04-28T10:24:30.100Z",
+    },
+    {
+        "_id": "680f575df10f3cd28382f0df",
+        "senderId": "680f5116f10f3cd28382ed02",
+        "receiverId": "680f50e4f10f3cd28382ecf9",
+        "text": "Nice picture!",
+        "seen": true,
+        "createdAt": "2025-04-28T10:24:35.700Z",
+    },
+    {
+        "_id": "680f5763f10f3cd28382f0e4",
+        "senderId": "680f50e4f10f3cd28382ecf9",
+        "receiverId": "680f5116f10f3cd28382ed02",
+        "text": "Thanks! Took it yesterday.",
+        "seen": true,
+        "createdAt": "2025-04-28T10:24:41.940Z",
+    },
+    {
+        "_id": "680f5768f10f3cd28382f0e9",
+        "senderId": "680f5116f10f3cd28382ed02",
+        "receiverId": "680f50e4f10f3cd28382ecf9",
+        "image": img2,
+        "seen": true,
+        "createdAt": "2025-04-28T10:24:48.112Z",
+    },
+    {
+        "_id": "680f576cf10f3cd28382f0ee",
+        "senderId": "680f5116f10f3cd28382ed02",
+        "receiverId": "680f50e4f10f3cd28382ecf9",
+        "text": "Where should we meet?",
+        "seen": true,
+        "createdAt": "2025-04-28T10:24:53.310Z",
+    },
+    {
+        "_id": "680f5772f10f3cd28382f0f3",
+        "senderId": "680f50e4f10f3cd28382ecf9",
+        "receiverId": "680f5116f10f3cd28382ed02",
+        "text": "Same place as last time.",
+        "seen": true,
+        "createdAt": "2025-04-28T10:24:58.777Z",
+    },
+    {
+        "_id": "680f5777f10f3cd28382f0f8",
+        "senderId": "680f5116f10f3cd28382ed02",
+        "receiverId": "680f50e4f10f3cd28382ecf9",
+        "text": "Okay, I'll be there in 10 mins.",
+        "seen": true,
+        "createdAt": "2025-04-28T10:25:04.612Z",
+    },
+];

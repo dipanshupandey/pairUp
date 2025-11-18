@@ -6,7 +6,7 @@ const MidChat = () => {
   const clicked=true;
   return (
     <div className='bg-white/30 backdrop-blur-lg basis-1/2 '>
-      {
+        {
             clicked?<MidChatClicked/>:<MidChatNotClicked/>
         }
     </div>
